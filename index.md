@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome to this blog
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
@@ -41,6 +40,11 @@ Here's a sample "posts list".
 ## To-Do
 
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+We need to clean up the themes, make theme usage guides with theme-specific markup examples. -->
 
 
+Thanks to [Jekyll Bootstrap](http://jekyllbootstrap.com/) and [Twitter Bootstrap](http://getbootstrap.com/2.3.2/).
+
+## System Analysis & Design
+
+Contains my homeworks to my course System Analysis and Design in spring 2018.
